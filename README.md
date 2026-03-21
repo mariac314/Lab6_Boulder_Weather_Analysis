@@ -1,6 +1,6 @@
 # Lab 6 Boulder Weather Analysis Repository 
 
-This repository loads and processes sundowner weather station data for Boulder, CO. The main code looks at weather trends for the month of February. 
+This repository loads and processes sundowner weather station data for Boulder, CO. The main code looks at weather trends for the month of February. The final plot shows 6-year temperature and humidty trends in February and diurnal temperature trends and anomalies for February 2026. 
 
 ## Use Instructions
 
