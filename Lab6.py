@@ -38,7 +38,7 @@ Feb_2026_max_wind = Feb_2026.Hi_Speed.resample('1D').max()
 # Plotting
 # Figure 1: Box plot highlighting yearly February temperature trends in Boulder
 plt.rcParams['axes.labelsize'] = 12
-fig, ((ax1, ax2), (ax3, ax4), (ax5, ax6)) = plt.subplots(3,2, figsize=(10,12))
+fig, ((ax1, ax2), (ax3, ax4), (ax5, ax6)) = plt.subplots(3,2, figsize=(12,12))
 ax1.boxplot(yearly_temp_data, showfliers=False)
 ax1.set_xlabel('Year')
 ax1.set_ylabel('Temperature (°F)')
