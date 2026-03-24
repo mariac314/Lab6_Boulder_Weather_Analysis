@@ -7,10 +7,10 @@ This repository loads and processes sundowner weather station data for Boulder, 
 ```bash
 
 # Clone this repository
-git clone https://github.com/mariac314/Lab6_Boulder_Weather_Analysis
+git clone https://github.com/mariac314/Lab6_Boulder_Weather_Analysis.git
 
 # Move into the folder
-cd Lab6_Boulder_Weather_Analysis.git
+cd Lab6_Boulder_Weather_Analysis
 
 # Run the main analysis file - this will generate the plot (February_Weather_Boulder.png)
 python Lab6.py
