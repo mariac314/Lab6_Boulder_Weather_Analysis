@@ -7,7 +7,7 @@ This repository loads and processes sundowner weather station data for Boulder, 
 ```bash
 
 # Clone this repository
-git clone https://github.com/mariac314/Lab6_Boulder_Weather_Analysis.git
+git clone https://github.com/mariac314/Lab6_Boulder_Weather_Analysis
 
 # Move into the folder
 cd Lab6_Boulder_Weather_Analysis.git
